@@ -1,6 +1,6 @@
 # Tic-Tac-Toe AI Game 🎮
 
-## Author: Jiwon Jeon
+## Jiwon Jeon
 
 A complete two-player Tic-Tac-Toe game in Python, where you play as **X** against a smart AI **O** opponent using the **Minimax algorithm with Alpha–Beta Pruning**.  
 The game includes intuitive board display, win/tie detection, replay option, and game statistics tracking.
@@ -26,6 +26,9 @@ The game includes intuitive board display, win/tie detection, replay option, and
 ---+---+---
  O | 8 | 9
 ```
+
+Stats → Wins: 0, Losses: 0, Ties: 2
+Play again? (y/n):
 
 - Select a position by entering the number shown on the cell.
 - The board updates in real-time after each move.
