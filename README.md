@@ -25,10 +25,12 @@ The game includes intuitive board display, win/tie detection, replay option, and
  4 | X | 6
 ---+---+---
  O | 8 | 9
-```
+
 
 Stats → Wins: 0, Losses: 0, Ties: 2
 Play again? (y/n):
+
+```
 
 - Select a position by entering the number shown on the cell.
 - The board updates in real-time after each move.
