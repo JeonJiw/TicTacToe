@@ -19,11 +19,13 @@ The game includes intuitive board display, win/tie detection, replay option, and
 
 ## 🧱 Board Display Example
 
-1 | 2 | 3
-—-+—--+—-
-4 | X | 6
-—-+—--+—-
-O | 8 | 9
+```
+ 1 | 2 | 3
+---+---+---
+ 4 | X | 6
+---+---+---
+ O | 8 | 9
+```
 
 - Select a position by entering the number shown on the cell.
 - The board updates in real-time after each move.
